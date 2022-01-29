@@ -7,3 +7,4 @@
 
 # References
   [1] Hemant Kumar Kathania, Sudarsana Reddy Kadiri, Paavo Alku, and Mikko Kurimo, “Study of formant modification forchildren asr,” inProc. ICASSP, 2020, pp.   7429–7433.
+Hemant Kathania, Sudarsana Reddy Kadiri, Paavo Alku and Mikko Kurimo, “A Formant Modification Method for Improved ASR of Children’s Speech”, Speech Communication, Vol. 136, pp. 98-106, January 2022.
